@@ -14,7 +14,7 @@ Looking for an internship from 1 April to 28 May 2027.
 - [Scheduling assistant](https://github.com/GITWINGITWIN-png/scheduling-assistant): plans the week into Google Calendar, groups mail by sender and keeps projects moving; FastAPI, React, SQLite and an LLM agent with tools.
 - [Thai meeting minutes](https://github.com/GITWINGITWIN-png/meeting-minutes): Thai speech recognition and speaker diarization run locally on a laptop GPU, then an LLM writes the minutes.
 - [Novel graph and semantic search](https://github.com/GITWINGITWIN-png/NUgraph): about 25,000 novels in Neo4j with search by description in Qdrant, served by FastAPI and a Cytoscape.js UI.
-- [University equipment-lending system](https://github.com/realsmow/Software-Engineering-Project): team of 14; I made loan requests all-or-nothing and stopped double grading of returned equipment.
+- [University equipment-lending system](https://github.com/realsmow/Software-Engineering-Project): team of 14; I design system and manage how system would behave to user.
 
 **Data**
 
