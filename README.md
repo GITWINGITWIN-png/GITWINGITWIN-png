@@ -5,6 +5,8 @@ I build backend, data and ML projects, with tests and checks on real data.
 
 Looking for an internship from 1 April to 28 May 2027.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodWorld)](https://github.com/GoodWorld/github-readme-stats)
+
 ## Selected work
 
 **Software and AI**
